@@ -1,4 +1,4 @@
-name: Register APP
+name: 应用注册
 
 on:
   workflow_dispatch:
